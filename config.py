@@ -6,7 +6,7 @@ Configuration module for the Facial Recognition Attendance System
 DB_CONFIG = {
     'host': 'localhost',      # MySQL server host
     'user': 'root',           # MySQL username
-    'password': 'Mr.Omniverse_05',   # MySQL password (change as needed)
+    'password': 'your_password',   # MySQL password (change as needed)
     'database': 'college_attendance',
     'raise_on_warnings': True
 }
