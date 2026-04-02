@@ -15,7 +15,7 @@ A production-grade Python application for automated attendance marking using fac
 ## Project Structure
 
 ```
-IoT PBL/
+Project/
 ├── main.py                      # Main application entry point
 ├── config.py                    # Configuration settings
 ├── database.py                  # Database connection and operations
